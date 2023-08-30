@@ -9,14 +9,11 @@ from glob import glob
 from os.path import basename
 from os.path import splitext
 import pathlib
+import tomllib
 
 # Third-Party Packages #
 from setuptools import find_packages
 from setuptools import setup
-try:
-    import tomllib
-except ModuleNotFoundError:
-    import tomli as tomllib
 
 
 # Definitions #
