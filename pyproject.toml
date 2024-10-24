@@ -12,7 +12,7 @@ packages = [
     { include = "templatepackage", from = "src" },
 ]
 classifiers = [
-    "Development Status :: 1 - Prototype",
+    "Development Status :: 1 - Planning",
 ]
 
 [tool.poetry.urls]
@@ -79,5 +79,5 @@ show_error_context = true
 line-length = 120
 
 [build-system]
-requires = ["poetry-core>=1.0.0", "setuptools"]
+requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"

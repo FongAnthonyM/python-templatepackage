@@ -9,11 +9,11 @@ __credits__ = ["Anthony Fong"]
 __maintainer__ = "Anthony Fong"
 __email__ = ""
 
-__copyright__ = "Copyright 2022, Anthony Fong"
+__copyright__ = "Copyright 2024, Anthony Fong"
 __license__ = "MIT"
 
 __version__ = "0.0.0"
-__status__ = "Production/Stable"
+__status__ = " Planning"
 
 __all__ = [
     "__package_name__",
